@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/scripts/check-flox.sh"
+            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/check-flox.sh"
           }
         ]
       }

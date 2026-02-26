@@ -2,6 +2,11 @@
 
 CWD=$(jq -r '.cwd' < /dev/stdin)
 
+if [ ! -d "$CWD/.flox" ]; then
+  echo '{"continue": true}'
+  exit 0
+fi
+
 if [ "$FLOX_ENV_PROJECT" = "$CWD" ]; then
   echo '{"continue": true}'
 else

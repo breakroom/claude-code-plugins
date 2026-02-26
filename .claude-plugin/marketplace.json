@@ -1,0 +1,27 @@
+{
+  "name": "breakroom-plugins",
+  "owner": {
+    "name": "Breakroom Engineering",
+    "email": "engineering@breakroom.cc"
+  },
+  "plugins": [
+    {
+      "name": "linear",
+      "source": "./plugins/linear",
+      "description": "Tools for managing Linear issues",
+      "version": "0.0.1"
+    },
+    {
+      "name": "flox",
+      "source": "./plugins/flox",
+      "description": "Tools for managing Flox environments",
+      "version": "0.0.1"
+    },
+    {
+      "name": "elixir",
+      "source": "./plugins/elixir",
+      "description": "Tools for working on Elixir projects",
+      "version": "0.0.1"
+    }
+  ]
+}

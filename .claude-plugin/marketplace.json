@@ -21,7 +21,7 @@
       "name": "elixir",
       "source": "./plugins/elixir",
       "description": "Tools for working on Elixir projects",
-      "version": "0.0.1"
+      "version": "0.0.2"
     }
   ]
 }

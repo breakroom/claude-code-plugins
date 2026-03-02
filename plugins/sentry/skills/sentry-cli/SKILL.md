@@ -1,11 +1,11 @@
 ---
-name: sentry
+name: sentry-cli
 description: Guide for using the Sentry CLI to interact with Sentry from the command line. Use when the user asks about viewing Sentry issues or events, or when a Linear card refers to a Sentry issue to get more detail on the problem.
 ---
 
-# Sentry
+# Sentry CLI
 
-Help users interact with Sentry from the command line using the `sentry` CLI tool.
+Helps users interact with Sentry from the command line using the `sentry` CLI tool.
 
 ## Prerequisites
 

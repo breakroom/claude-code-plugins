@@ -22,6 +22,12 @@
       "source": "./plugins/elixir",
       "description": "Tools for working on Elixir projects",
       "version": "0.0.2"
+    },
+    {
+      "name": "sentry",
+      "source": "./plugins/sentry",
+      "description": "Tools for interacting with Sentry",
+      "version": "0.0.1"
     }
   ]
 }

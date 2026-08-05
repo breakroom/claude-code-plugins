@@ -64,7 +64,7 @@ Don't paste image URLs yourself, and don't try to write descriptions for screens
 
 ## 6. Assemble the body
 
-Use the template at `pull_request_template.md` verbatim as the structure. Final body should look like:
+If there's a template at `pull_request_template.md`, use it verbatim as the structure. Final body should look like:
 
 ```markdown
 [BRK-1234 Card title](https://linear.app/breakroom/issue/BRK-1234)

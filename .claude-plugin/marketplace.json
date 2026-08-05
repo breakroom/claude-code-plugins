@@ -6,10 +6,16 @@
   },
   "plugins": [
     {
-      "name": "linear",
-      "source": "./plugins/linear",
-      "description": "Tools for managing Linear issues",
+      "name": "developer-workflows",
+      "source": "./plugins/developer-workflows",
+      "description": "Common workflows for working on Breakroom projects",
       "version": "0.0.1"
+    },
+    {
+      "name": "elixir",
+      "source": "./plugins/elixir",
+      "description": "Tools for working on Elixir projects",
+      "version": "0.0.4"
     },
     {
       "name": "flox",
@@ -18,10 +24,10 @@
       "version": "0.0.1"
     },
     {
-      "name": "elixir",
-      "source": "./plugins/elixir",
-      "description": "Tools for working on Elixir projects",
-      "version": "0.0.3"
+      "name": "linear",
+      "source": "./plugins/linear",
+      "description": "Tools for managing Linear issues",
+      "version": "0.0.1"
     },
     {
       "name": "sentry",

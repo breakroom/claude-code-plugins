@@ -6,6 +6,12 @@
   },
   "plugins": [
     {
+      "name": "circleci",
+      "source": "./plugins/circleci",
+      "description": "Tools for interacting with CircleCI",
+      "version": "0.0.1"
+    },
+    {
       "name": "developer-workflows",
       "source": "./plugins/developer-workflows",
       "description": "Common workflows for working on Breakroom projects",

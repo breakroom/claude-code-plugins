@@ -4,6 +4,12 @@ A collection of Claude Code plugins.
 
 ## Plugins
 
+### CircleCI
+
+Plugin for projects that build on [CircleCI](https://circleci.com).
+
+- **CircleCI CLI skill** — Patterns for driving the `circleci` CLI: finding failed jobs, reading step output, structured `--json` output, and the `circleci api` fallback
+
 ### Elixir
 
 Plugin for working on Elixir projects.
